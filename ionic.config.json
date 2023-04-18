@@ -1,0 +1,7 @@
+{
+  "name": "react-back-button-handler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
